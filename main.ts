@@ -13,4 +13,6 @@ basic.forever(function () {
         . . # . .
         . . . . .
         `)
+    basic.showString("Hello!")
+    basic.showString("OK no problem")
 })
